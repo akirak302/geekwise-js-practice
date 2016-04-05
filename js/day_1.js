@@ -1,0 +1,2 @@
+var myFavoriteNumber;
+var notMyFavoriteNumber;
